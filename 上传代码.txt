@@ -1,0 +1,7 @@
+git add .
+git commit -m "新增xxx题"
+git push
+
+git add .
+git commit -m "第一次批量上传，共XX道刷题代码（比如：批量上传50道力扣刷题代码）"
+git push
